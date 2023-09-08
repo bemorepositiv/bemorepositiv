@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
- >**Some coding experience like basic _python_**
- > IDK seemed fun
- > Golf is a fun little sport 
-> Let's see what gets thrown at us first 
+- **Some coding experience like basic _python_**
+* IDK seemed fun
++ Golf is a fun little sport 
+- Let's see what gets thrown at us first 
 
  
 
