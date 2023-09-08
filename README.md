@@ -1,6 +1,16 @@
 ### Hi there 👋
 
+
+ 1. **Some coding experience like basic _python_**
+ 2. IDK seemed fun
+ 3. Golf is a fun little sport 
+4. Let's see what gets thrown at us first 
+
+ 
+
 <!--
+
+
 **bemorepositiv/bemorepositiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
