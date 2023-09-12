@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- **Some coding experience like basic _python_**
-* IDK seemed fun
-+ Golf is a fun little sport 
-- Let's see what gets thrown at us first 
+-Basic coding experience:  **Some coding experience like basic _python_**
+* Why did you take this course: IDK seemed fun
++ What other goals do you have: Golf is a fun little sport 
+- What goals do you have for this class:  Let's see what gets thrown at us first 
 
  
 
