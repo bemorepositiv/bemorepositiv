@@ -1,4 +1,4 @@
-### Benjamin Moorhouse '26
+## Benjamin Moorhouse '26
 
 - Basic coding experience:  **Some coding experience like basic _python_**
 * Why did you take this course: IDK seemed fun
