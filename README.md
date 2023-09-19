@@ -1,6 +1,6 @@
 ## Benjamin Moorhouse '26
 
-- Basic coding experience:  **Some coding experience like basic _python_**
+- Basic coding experience:  **Some coding experience like basic python**
 * Why did you take this course: IDK seemed fun
 + What other goals do you have: Golf is a fun little sport 
 - What goals do you have for this class:  Let's see what gets thrown at us first 
