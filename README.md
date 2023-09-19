@@ -4,8 +4,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Some coding experience like basic python
 ### Why did you take this course: 
 &nbsp;&nbsp;&nbsp;&nbsp; IDK seemed fun
-### What other goals do you have:
-&nbsp;&nbsp;&nbsp;&nbsp; Golf is a fun little sport 
+### What other interests do you have:
+&nbsp;&nbsp;&nbsp;&nbsp; Golf and PvE games 
 ### What goals do you have for this class:  
 &nbsp;&nbsp;&nbsp;&nbsp; Let's see what gets thrown at us first 
 
